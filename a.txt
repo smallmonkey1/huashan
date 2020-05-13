@@ -1,0 +1,7 @@
+public class huashan{
+public static void main(String[] args){
+
+}
+
+
+}
